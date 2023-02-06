@@ -3,7 +3,7 @@
 
 
 
-`I'm already announcing a new version of the checker because apparently the API is broken XD`
+### ✔️ New version of checker (more accurate API + does not kill cards) , that is, v4 available in beta for purchase. 💚 Write on discord if you want to purchase: mlodykreska#0002. Price: 7$ (Paypal & Crypto)
 
 
 
