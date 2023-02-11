@@ -3,10 +3,10 @@
 
 
 
-### ✔️ New version of checker (more accurate API + does not kill cards) , that is, v4 available in beta for purchase. 💚 Write on discord if you want to purchase: mlodykreska#0002. Price: 7$ (Paypal & Crypto)
+### ✔️ New version of checker (2x more accurate API + does not kill cards) , that is, v4 available in beta-2 for purchase. 💚 Write on discord if you want to purchase: mlodykreska#0002. Price: 9$ (Paypal & Crypto)
 
 
-
+![This is an image](https://media.discordapp.net/attachments/1072525725170663425/1073685747468603463/image.png)
 
 
 
