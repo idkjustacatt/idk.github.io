@@ -1,7 +1,7 @@
 # NullChecker
 **💳 Best Credit Card Checker - NO SK & Proxyless**
 
-
+## Free Version v4 | Stripe and Braintree - coded by my friend | https://t.ly/foHR
 
 ### ✔️ New version of checker (2x more accurate API + does not kill cards) , that is, v4 available in beta-2 for purchase. 💚 Write on discord if you want to purchase: mlodykreska#0002. Price: 9$ (Paypal & Crypto)
 
