@@ -4,4 +4,3 @@
 
 > Our discord: https://discord.gg/liftium
 
-> 〽️ Want download old version? - Dm me at discord
