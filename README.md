@@ -1,6 +1,9 @@
 ❗ Free Version of checker has been patched. 
 
-> Check out Liftium's Checker: https://liftium.space/chk
+### You can still buy Paid Updated version,
 
-> Our discord: https://discord.gg/liftium
+dm me at telegram @liftium 📨 (chk price: 15$ - private api)
+
+
+⭐ **Checker for Mastercard, VISA and other brands** (FAST API)
 
