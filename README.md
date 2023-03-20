@@ -1,14 +1,17 @@
-⭐ **Checker for Mastercard, VISA and other brands** (FAST API)
+⭐ **Checker for Mastercard, VISA and other brands** 
 
-High Quality API/proxyless /w Fast Checking
-
-
+150 STARS = RELEASE 💸
 
 
 
-### If u want to buy Paid Updated version,
 
-dm me at telegram @liftium 📨 (chk price: 15$ - private api)
+![alt text](https://imgur.com/Y7qmBeL)
+
+
+
+### If u want to buy Beta version,
+
+dm me at telegram @liftium 📨 (chk price: 10$ - private api)
 
 
 
