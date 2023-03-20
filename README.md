@@ -1,5 +1,9 @@
 ⭐ **Checker for Mastercard, VISA and other brands** 
 
+
+Join our discord: https://discord.gg/liftium
+
+
 150 STARS = RELEASE 💸
 
 
