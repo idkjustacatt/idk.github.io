@@ -1,8 +1,9 @@
 ⭐ **Checker for Mastercard, VISA and other brands** 
 
-
-Join our discord: https://discord.gg/liftium
-
+Install requirements
+```
+colorama, requests, urllib3, json
+```
 
 150 STARS = RELEASE 💸
 
