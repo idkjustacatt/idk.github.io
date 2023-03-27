@@ -5,8 +5,13 @@ Install requirements
 colorama, requests, urllib3, json
 ```
 
-100 STARS = RELEASE SOURCE CODE 💸
+
+
+100 STARS = RELEASE SOURCE CODE 📝
+
 40 STARS = RELEASE EXE DEMO VERSION ⭐ | Check Releases page ;)
+
+
 
 
 
@@ -17,7 +22,7 @@ colorama, requests, urllib3, json
 ### If u want to buy Beta version,
 
 dm me at telegram @liftium 📨 
-```txt
+```
 .exe (Basic) Version - 3,5$
 .py (Premium) Version - 10,5$
 
