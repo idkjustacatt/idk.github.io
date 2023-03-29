@@ -6,6 +6,8 @@ colorama, requests, urllib3, json
 ```
 
 
+### Free: https://github.com/Blagdoii/LiftiumChk/releases/tag/demo
+
 
 100 STARS = RELEASE SOURCE CODE 📝
 
