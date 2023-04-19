@@ -6,12 +6,11 @@ colorama, requests, urllib3, json
 ```
 
 
-### Free: https://github.com/Blagdoii/LiftiumChk/releases/tag/demo
+
 
 
 100 STARS = RELEASE SOURCE CODE 📝
 
-40 STARS = RELEASE EXE DEMO VERSION ⭐ | Check Releases page ;)
 
 
 
@@ -24,12 +23,8 @@ colorama, requests, urllib3, json
 ### If u want to buy Beta version,
 
 dm me at telegram @liftium 📨 
-```
-.exe (Basic) Version - 3,5$
-.py (Premium) Version - 10,5$
 
-//only crypto
-```
+**PayPal - 11$, Crypto - 10$**
 
 
 
