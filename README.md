@@ -8,6 +8,10 @@ It currently supports Stripe and the Square API. If you don't have an API key yo
 `you don't need to install anything, the script is portable`
 
 
+> Screenshots
+![altimg](https://cdn.discordapp.com/attachments/1100745735500206090/1100793024386191391/image.png)
+
+![altimg2](https://cdn.discordapp.com/attachments/1100745735500206090/1100793586557136896/image.png)
 
 
 
