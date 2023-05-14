@@ -3,6 +3,8 @@ Howdy, I decided to update this checker because it had been eating shit for a wh
 
 It currently supports Stripe and the Square API. If you don't have an API key you can buy one from me on telegram @liftium for 1$
 
+[free version, dont use this shit..](https://github.com/Blagdoii/LiftiumChk/blob/main/chk.py)
+
 
 > installation
 `you don't need to install anything, the script is portable`
