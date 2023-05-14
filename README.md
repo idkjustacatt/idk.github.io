@@ -20,9 +20,8 @@ Checker automatically removes checked cards from CC.txt file which will help you
 
 
 ### Download
-> dm me for buy 16$ (api key included)
+> dm me for buy 20$ (api key included)
 
-discord: bae#4444
 telegram: @liftium
 
 
