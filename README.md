@@ -1,9 +1,8 @@
 # LiftiumChk 
-Howdy, I decided to update this checker because it had been eating shit for a while and was working shoddily. + **OTP BOT FREE INCLUDED**
+Howdy, I decided to update this checker because it had been eating shit for a while and was working shoddily. 
 
-**NEED .php VERSION WITH ALL APIs INCLUDED?** dm me at telegram @liftium
 
-It currently supports Stripe and the Square API. If you don't have an API key you can buy one from me on telegram @liftium for 1$
+It currently supports Stripe and the Square API (U dont need any sk).
 
 [free version, dont use this shit..](https://github.com/Blagdoii/LiftiumChk/blob/main/chk.py)
 
