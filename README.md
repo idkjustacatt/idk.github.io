@@ -16,6 +16,8 @@ It currently supports Stripe and the Square API (U dont need any sk).
 
 ![altimg2](https://cdn.discordapp.com/attachments/1105370472511713320/1108427256453406761/image.png)
 
+![altimg3](https://cdn.discordapp.com/attachments/1105370472511713320/1108427877394952202/image.png)
+
 
 
 
