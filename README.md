@@ -1,7 +1,7 @@
 # LiftiumChk 
 
 ### Download
-> dm me for buy 20$ (api key included)
+> dm me for buy 15$ (api key included)
 
 telegram: @liftium
 
