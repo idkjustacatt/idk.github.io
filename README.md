@@ -1,10 +1,24 @@
 # LiftiumChk 
+
+### Download
+> dm me for buy 20$ (api key included)
+
+telegram: @liftium
+
+
+
+
+
+
+
+
+
+
+
 Howdy, I decided to update this checker because it had been eating shit for a while and was working shoddily. 
 
 
 It currently supports Stripe and the Square API (U dont need any sk).
-
-[free version, dont use this shit..](https://github.com/Blagdoii/LiftiumChk/blob/main/chk.py)
 
 
 > installation
@@ -23,11 +37,6 @@ It currently supports Stripe and the Square API (U dont need any sk).
 
 Checker automatically removes checked cards from CC.txt file which will help you not to get confused
 
-
-### Download
-> dm me for buy 20$ (api key included)
-
-telegram: @liftium
 
 
 
