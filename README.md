@@ -1,7 +1,9 @@
 # LiftiumChk 
+UPDATE 05.06.2023 - added braintree api and removed stripe
+
 
 ### Download
-> dm me for buy 10$ (api key included)
+> dm me for buy 15$ (api key included)
 
 telegram: @liftium
 
