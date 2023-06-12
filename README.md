@@ -35,10 +35,12 @@ Checker automatically removes checked cards from CC.txt file which will help you
 
 
 
-
+# Otp Bot
+I have added OTP Bot to this script (not patched 12.06.2023)
+Using twillio API.
 
 ### Download
-> dm me for buy 15$ 
+> dm me for buy 20$ 
 
 telegram: @liftium
 
