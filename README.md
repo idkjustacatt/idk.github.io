@@ -1,18 +1,5 @@
 # LiftiumChk 
-UPDATE 05.06.2023 - added braintree api and removed stripe
-
-
-### Download
-> dm me for buy 15$ (api key included)
-
-telegram: @liftium
-
-
-
-
-
-
-
+UPDATE 12.06 UPDATED API GLITCH
 
 
 
@@ -48,6 +35,12 @@ Checker automatically removes checked cards from CC.txt file which will help you
 
 
 
+
+
+### Download
+> dm me for buy 15$ 
+
+telegram: @liftium
 
 
 
