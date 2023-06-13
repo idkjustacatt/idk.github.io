@@ -1,5 +1,5 @@
 # LiftiumChk 
-i will post free version on 100 stars
+
 
 
 
@@ -43,13 +43,26 @@ I have added OTP Bot to this script (not patched 13.06.2023)
 Using twillio API.
 
 ### Download
+i will post free version on 100 stars
+
 > dm me for buy 20$ 
 
 telegram: @liftium
 
 
 
-tags:
+
+
+
+
+
+
+
+
+
+
+ 
+tags: (dont read it)
 ```
 free cc checker, cc checker live dead, cc checker, cc checker live, cc checker free, cc checker cvv, cc checker ccv, ccv checker, cvv checker, cvv checker free, ccv checker free, free otp bot, otp bot, otp bot free, otp bot tool, cc checker tool
 ```
