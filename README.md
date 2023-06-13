@@ -1,5 +1,8 @@
 # LiftiumChk 
-UPDATE 12.06 UPDATED API GLITCH
+i will post free version on 100 stars
+
+
+
 
 
 
@@ -36,7 +39,7 @@ Checker automatically removes checked cards from CC.txt file which will help you
 
 
 # Otp Bot
-I have added OTP Bot to this script (not patched 12.06.2023)
+I have added OTP Bot to this script (not patched 13.06.2023)
 Using twillio API.
 
 ### Download
@@ -44,5 +47,11 @@ Using twillio API.
 
 telegram: @liftium
 
+
+
+tags:
+```
+free cc checker, cc checker live dead, cc checker, cc checker live, cc checker free, cc checker cvv, cc checker ccv, ccv checker, cvv checker, cvv checker free, ccv checker free, free otp bot, otp bot, otp bot free, otp bot tool, cc checker tool
+```
 
 
