@@ -18,11 +18,11 @@ It currently supports Stripe API (U dont need any sk | STRIPE SK SCRAPER INCLUDE
 
 
 > Screenshots
-![altimg](https://cdn.discordapp.com/attachments/1100745735500206090/1100793024386191391/image.png)
+![altimg](https://cdn.discordapp.com/attachments/1105422613280473140/1118517570643951686/image.png)
 
-![altimg2](https://cdn.discordapp.com/attachments/1105370472511713320/1108427256453406761/image.png)
+![altimg2](https://cdn.discordapp.com/attachments/1105422613280473140/1118518289824489573/image.png)
 
-![altimg3](https://cdn.discordapp.com/attachments/1105370472511713320/1108427877394952202/image.png)
+![altimg3](https://cdn.discordapp.com/attachments/1105422613280473140/1118517920356651028/image.png)
 
 
 
