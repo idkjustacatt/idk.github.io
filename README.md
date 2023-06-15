@@ -43,7 +43,6 @@ I have added OTP Bot to this script (not patched 13.06.2023)
 Using twillio API.
 
 ### Download
-i will post free version on 100 stars
 
 > dm me for buy 20$ 
 
