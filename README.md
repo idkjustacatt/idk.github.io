@@ -42,7 +42,9 @@ Checker automatically removes checked cards from CC.txt file which will help you
 
 ### Download
 
-> dm me for buy 25$ 
+> dm me for buy 19.99$ 
+
+> dont ask me for "demo" or "testing" plz
 
 telegram: @liftium
 
